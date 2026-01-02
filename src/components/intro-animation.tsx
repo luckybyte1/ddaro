@@ -73,7 +73,7 @@ export function IntroAnimation({ onComplete }: IntroAnimationProps) {
             filter: phase === "initial" ? (isLight ? "drop-shadow(0 0 40px rgba(0, 0, 0, 0.3))" : "drop-shadow(0 0 40px rgba(16, 185, 129, 0.5))") : "none",
           }}
         >
-          Aku kangen kamu ❤️
+          pinjam dulu 100
         </span>
       </div>
 
